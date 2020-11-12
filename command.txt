@@ -2,3 +2,7 @@ git init
 git status
 git add .
 git log --oneline (git log)
+git chekout 65654
+git checkout master
+git diff
+git show 465454
