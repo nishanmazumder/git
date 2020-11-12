@@ -1,4 +1,4 @@
 git init
 git status
 git add .
-git log --online (git log)
+git log --oneline (git log)
