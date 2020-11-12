@@ -7,3 +7,5 @@ git checkout master
 git diff --staged
 git diff after before
 git show 465454
+git rm del.txt
+git reset HEAD del.txt
