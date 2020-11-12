@@ -9,3 +9,14 @@ git diff after before
 git show 465454
 git rm del.txt
 git reset HEAD del.txt
+
+after repo:
+git remote add origin https://github.com/nishanmazumder/git.git
+git branch -M main
+git push -u origin main
+
+git clone https://github.com/nishanmazumder/git.git
+
+git fetch
+git pull
+
